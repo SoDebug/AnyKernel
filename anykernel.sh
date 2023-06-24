@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string= Bool-X Kernel by @OnettBoots
+kernel.string= SoDebug Patched Kernel by @SoDebug
 do.devicecheck=1
 do.modules=0
 do.systemless=1
